@@ -35,5 +35,5 @@ In above example, a p2pweb node running on localhost listening on port 5555 rece
 
 Pending Tasks :
 * Need to test sequence number logic to avoid looping in case of message broadcasts.
-* need to detach/clean up file handling and include support for etended media types.
+* need to detach/clean up file handling and include support for extended media types.
 * Start working on a GUI for this application
